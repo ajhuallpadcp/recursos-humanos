@@ -1,0 +1,21 @@
+PROTOTIPO RR.HH. — Gestión Humana (v6)
+1. Descomprime el ZIP.
+2. Abre index.html con doble clic (Chrome, Edge o Firefox).
+
+Novedades de esta versión:
+- Asistencia de hoy (en vivo): Asistencia › Asistencia de hoy. Usa la hora real del equipo:
+  presentes, en almuerzo, sin marcar, ya salieron, de vacaciones o con licencia. Se actualiza
+  cada 30 segundos y alerta 3 o más días seguidos sin asistir (posible abandono de trabajo).
+  Fuentes de marcación activables: relojes biométricos por sede, portal web, app móvil con GPS y QR.
+- Desempeño: objetivos + competencias con nivel esperado por puesto, ponderación configurable
+  (70/30), calificación final, brechas por competencia y avance por jefe.
+  Talento › Gestión del desempeño. El jefe evalúa en Mi equipo › Desempeño.
+- Comunicación y reconocimiento: Talento › Comunicados (con alcance por sede/área, acuse de
+  lectura y recordatorios) y Reconocimientos (muro, aplausos, estadísticas).
+  El trabajador los ve en Mi portal › Novedades y puede reconocer a un compañero.
+- Vacaciones: pestaña "En curso y próximas": cuántos días faltan para que salga, día X de N,
+  cuántos días lleva sin venir, cuántos le quedan y qué día retorna. También en Mi equipo
+  y en el inicio del portal del trabajador.
+
+Si ya abriste una versión anterior, tus datos se actualizan solos.
+Para empezar desde cero: menú del usuario > "Restablecer datos de demostración".
